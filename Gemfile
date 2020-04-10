@@ -58,3 +58,6 @@ gem "twitter-bootstrap-rails"
 
 # Font Awesome
 gem "font-awesome-rails"
+
+# Simple Form
+gem 'simple_form'
