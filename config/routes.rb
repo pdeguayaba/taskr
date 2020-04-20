@@ -7,4 +7,6 @@ Rails.application.routes.draw do
   end
   root 'pages#home'
   get 'about' => 'pages#about'
+  # TEST PAGE
+  get 'test' => 'pages#test'
 end
