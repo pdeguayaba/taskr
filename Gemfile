@@ -75,3 +75,6 @@ gem 'devise'
 
 # Auto_HTML
 gem 'auto_html', '~> 1.6.4'
+
+# To check if deployment works
+gem 'jquery-rails'
