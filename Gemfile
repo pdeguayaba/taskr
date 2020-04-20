@@ -70,3 +70,6 @@ gem 'simple_form'
 
 # Devise
 gem 'devise'
+
+# Auto_HTML
+gem 'auto_html', '~> 1.6.4'
